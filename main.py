@@ -13,7 +13,7 @@ art = r"""
  /  :|_/ ) /\\ __ //\  /  \   \(:      "||: |_)  :)\        / /  \   \  
 (_______/ (__________)|___/\___|\_______)(_______/  \"_____/ |___/\___| 
                                                                         
-  -Spotify Playlist Creator-                                                                                                                                                              """
+  -Spotify Playlist Generator-                                                                                                                                                              """
  
 load_dotenv(override=True)
 CLIENT_ID = os.getenv("CLIENT_ID")
