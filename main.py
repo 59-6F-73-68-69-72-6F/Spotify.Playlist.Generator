@@ -30,7 +30,7 @@ def SpotifyClient(client_id,secret,username):
             client_id= client_id,
             client_secret= secret, 
             show_dialog= True,
-            cache_path="/home/rleti/Project_Python/Learning/Day-46/token.txt",
+            cache_path="/token.txt",
             username= username,
         )
     )
