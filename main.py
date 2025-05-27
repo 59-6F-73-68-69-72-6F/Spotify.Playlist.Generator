@@ -52,7 +52,6 @@ def sp_track_finder(top_100:list):
     return spotify_uri_list
 
 # FUNCTION - CREATE A PLAYLIST ON SPOTIFY ----------
-
 def playlist_creator(user_id,date,year,track_list):
     playlist_name = f"{date} Billboard 100"
     new_playlist = sp.user_playlist_create(user= user_id,name= playlist_name,public= False,collaborative= False,description= f"Best song of the year {year}")
