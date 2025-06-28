@@ -6,7 +6,7 @@
 
   - User Input: Prompts the user to enter a date in the format YYYY-MM-DD.
 
-  - Top 100 Retrieval: Uses the Top_100 class (from top_100.py) to get the Billboard Top 100 songs for the given date.
+  - Top 100 Retrieval: Uses the Top_100 class to get the Billboard Top 100 songs for the given date.
 
  - Spotify Integration: Authenticates with the user's Spotify account using OAuth and the Spotipy library.
 
