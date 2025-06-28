@@ -22,3 +22,6 @@
   - dotenv for loading environment variables (Spotify credentials)
 
   - A custom Top_100 class to retrieve song lists</p>
+
+![image](https://github.com/user-attachments/assets/20b2b6a3-b145-4de9-8a4e-1114eb9862ec)
+
