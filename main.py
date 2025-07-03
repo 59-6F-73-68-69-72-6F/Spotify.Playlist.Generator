@@ -1,8 +1,10 @@
-import spotipy 
-from spotipy.oauth2 import SpotifyOAuth
-from top_100 import Top_100
 from dotenv import load_dotenv
 import os
+
+from top_100 import Top_100
+
+from spotipy.oauth2 import SpotifyOAuth
+import spotipy 
 
 art = r"""
       ___  ____  ____  ___  ___  _______  _______     ______  ___  ___  
